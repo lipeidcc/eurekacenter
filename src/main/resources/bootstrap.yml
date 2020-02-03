@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: eurekasevce
+  cloud:
+    config:
+      label: mstaer
+      uri: https://github.com/lipeidcc/configcenter
+      username: lipeidcc
+      password: lipei1214
+      profile: dev

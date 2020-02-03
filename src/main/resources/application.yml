@@ -1,0 +1,12 @@
+#服务端口配置
+erver:
+  port: 8671
+
+#eureka配置
+eureka:
+  client:
+    register-with-eureka: false
+
+
+sentry:
+  dns: https://44dba742f6554b7fa784a540c38e8311@sentry.io/1312594
